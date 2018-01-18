@@ -1,0 +1,11 @@
+description: A sample project with data science toolkits on a python Jupyter notebook
+gitUrl: https://github.com/hasura/quandl-jupyter-risk-modeling/
+keywords: Fintech, data science, dataviz, python, jupyter, data visualisation, quandl,
+  financial modeling, garch
+media:
+  images:
+  - https://raw.githubusercontent.com/hasura/quandl-metabase/master/assets/banner1.png
+  - https://raw.githubusercontent.com/hasura/quandl-metabase/master/assets/banner2.png
+  - https://raw.githubusercontent.com/hasura/quandl-metabase/master/assets/banner3.png
+name: scipy-jupyter-notebook
+platformVersion: v0.15.18
